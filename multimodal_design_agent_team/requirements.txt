@@ -1,0 +1,8 @@
+google-generativeai
+streamlit
+phidata
+Pillow
+duckduckgo-search
+google-genai
+langchain
+langchain_community
