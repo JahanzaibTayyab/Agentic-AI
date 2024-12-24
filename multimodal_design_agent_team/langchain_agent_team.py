@@ -226,7 +226,7 @@ def initialize_agents(api_key: str) -> tuple[AgentExecutor, AgentExecutor, Agent
         return None, None, None
     
 # Streamlit UI
-st.title("Multimodal AI Design Agent Team")
+st.title("AI Design Agent Team")
 
 # Sidebar for API key input
 with st.sidebar:

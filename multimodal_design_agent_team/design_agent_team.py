@@ -82,7 +82,7 @@ with st.sidebar:
         1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
         """)
 
-st.title("Multimodal AI Design Agent Team")
+st.title("AI Design Agent Team")
 
 st.markdown("---")
 st.markdown("""
