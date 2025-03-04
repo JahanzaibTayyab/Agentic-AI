@@ -12,7 +12,7 @@ The AI Real Estate Agent automates property search and market analysis using Fir
 
 ## Live Demo
 
-Experience the application: [AI Real Estate Agent](https://ai-real-estate-agent.streamlit.app/)
+Experience the application: [AI Real Estate Agent](https://ai-real-estate-agent-jahanzaib.streamlit.app/)
 
 ## Application Screenshot
 

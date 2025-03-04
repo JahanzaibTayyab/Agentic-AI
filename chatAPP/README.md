@@ -13,7 +13,7 @@ The **Gemini LLM QA Chatbot** is an interactive application that uses Google Gen
 
 ## Live Demo
 
-Experience the application: [Gemini LLM QA Chatbot](https://chatapp-gemini.streamlit.app/)
+Experience the application: [Gemini LLM QA Chatbot](https://chatapp-gemini-jahanzaib.streamlit.app/)
 
 ## Application Screenshot
 
