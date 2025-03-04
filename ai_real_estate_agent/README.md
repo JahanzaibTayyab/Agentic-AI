@@ -12,7 +12,7 @@ The AI Real Estate Agent automates property search and market analysis using Fir
 
 ## Live Demo
 
-Experience the application: [AI Design Agent Team](https://invoice-tracker-app.streamlit.app/)
+Experience the application: [AI Design Agent Team](https://ai-real-estate-agent.streamlit.app/)
 
 ## Application Screenshot
 
