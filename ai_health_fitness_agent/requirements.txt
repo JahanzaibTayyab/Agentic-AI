@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+agno
+firecrawl-py==1.9.0
+pydantic
+openai
+google-genai
