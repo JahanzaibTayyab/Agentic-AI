@@ -81,6 +81,9 @@ class PropertyFindingAgent:
             f"https://www.squareyards.com/sale/property-for-sale-in-{formatted_location}/*",
             f"https://www.99acres.com/property-in-{formatted_location}-ffid/*",
             f"https://housing.com/in/buy/{formatted_location}/{formatted_location}",
+            f"https://www.graana.com/search/cityArea?searchQuery={formatted_location}",
+            f"https://www.graana.com/search/cityArea?searchQuery={formatted_location}",
+            f"https://www.graana.com/search/cityArea?searchQuery={formatted_location}",
             # f"https://www.nobroker.in/property/sale/{city}/{formatted_location}",
         ]
 
@@ -274,7 +277,7 @@ def main():
     with col1:
         city = st.text_input(
             "City",
-            placeholder="Enter city name (e.g., Bangalore)",
+            placeholder="Enter city name (e.g., Lahore)",
             help="Enter the city where you want to search for properties",
         )
 
