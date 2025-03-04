@@ -4,7 +4,7 @@ The **AI Health & Fitness Planner** is a personalized health and fitness Agent p
 
 ## Live Demo
 
-Experience the application: [AI Design Agent Team](https://ai-real-estate-agent.streamlit.app/)
+Experience the application: [AI Health & Fitness Planner](https://ai-health-fitness-jahanzaib.streamlit.app/)
 
 ## Application Screenshot
 

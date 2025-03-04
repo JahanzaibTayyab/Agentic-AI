@@ -152,3 +152,15 @@ if st.session_state.chat_history:
             st.markdown(f"**{role}:** {text}")
 else:
     st.info("No conversation history yet. Start chatting!")
+
+
+st.markdown(
+    """
+<div style='text-align: center'>
+    <small>
+    &copy; 2025 AI Agents. All rights reserved by <a href="https://jahanzaibtayyab.com/">Jahanzaib Tayyab</a>.
+    </small>
+</div>
+""",
+    unsafe_allow_html=True,
+)

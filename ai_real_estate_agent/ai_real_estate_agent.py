@@ -340,6 +340,16 @@ def main():
 
         except Exception as e:
             st.error(f"❌ An error occurred: {str(e)}")
+    st.markdown(
+        """
+<div style='text-align: center'>
+    <small>
+    &copy; 2025 AI Agents. All rights reserved by <a href="https://jahanzaibtayyab.com/">Jahanzaib Tayyab</a>.
+    </small>
+</div>
+""",
+        unsafe_allow_html=True,
+    )
 
 
 if __name__ == "__main__":

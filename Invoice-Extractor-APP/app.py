@@ -107,3 +107,15 @@ if submit:
         response = get_gemini_response(input_prompt, image_data, input)
         st.subheader("The Response is")
         st.write(response)
+
+
+st.markdown(
+    """
+<div style='text-align: center'>
+    <small>
+    &copy; 2025 AI Agents. All rights reserved by <a href="https://jahanzaibtayyab.com/">Jahanzaib Tayyab</a>.
+    </small>
+</div>
+""",
+    unsafe_allow_html=True,
+)

@@ -274,6 +274,16 @@ def main():
                 for question, answer in st.session_state.qa_pairs:
                     st.markdown(f"**Q:** {question}")
                     st.markdown(f"**A:** {answer}")
+    st.markdown(
+        """
+<div style='text-align: center'>
+    <small>
+    &copy; 2025 AI Agents. All rights reserved by <a href="https://jahanzaibtayyab.com/">Jahanzaib Tayyab</a>.
+    </small>
+</div>
+""",
+        unsafe_allow_html=True,
+    )
 
 
 if __name__ == "__main__":

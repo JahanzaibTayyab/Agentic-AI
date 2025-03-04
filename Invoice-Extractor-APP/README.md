@@ -12,7 +12,7 @@ The **Gemini Invoice Q&A Chatbot** is an intelligent application that leverages 
 
 ## Live Demo
 
-Experience the application: [AI Design Agent Team](https://invoice-tracker-app.streamlit.app/)
+Experience the application: [Gemini Invoice Q&A Chatbot](https://invoice-tracker-app.streamlit.app/)
 
 ## Application Screenshot
 

@@ -1,4 +1,4 @@
-## 🏠 AI Real Estate Agent - Powered by Firecrawl's Extract Endpoint
+## 🏠 AI Real Estate Agent
 
 The AI Real Estate Agent automates property search and market analysis using Firecrawl's Extract endpoint and Agno AI Agent's insights. It helps users find properties matching their criteria while providing detailed location trends and investment recommendations. This agent streamlines the property search process by combining data from multiple real estate websites and offering intelligent analysis.
 
@@ -12,7 +12,7 @@ The AI Real Estate Agent automates property search and market analysis using Fir
 
 ## Live Demo
 
-Experience the application: [AI Design Agent Team](https://ai-real-estate-agent.streamlit.app/)
+Experience the application: [AI Real Estate Agent](https://ai-real-estate-agent.streamlit.app/)
 
 ## Application Screenshot
 
