@@ -10,6 +10,14 @@ The **Gemini Invoice Q&A Chatbot** is an intelligent application that leverages 
 - It uses Google Generative AI (Gemini) to process images and provide contextual answers to user queries.
 - The Streamlit framework powers the intuitive user interface, making it accessible and easy to use.
 
+## Live Demo
+
+Experience the application: [AI Design Agent Team](https://invoice-tracker-app.streamlit.app/)
+
+## Application Screenshot
+
+![Application Screenshot](./image.png)
+
 ## Setup Instructions
 
 ### 1. Create a Virtual Environment
